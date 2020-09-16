@@ -1,7 +1,7 @@
 {
   "name": "jarvis-2020",
   "version": "1.0.0",
-  "description": "An example from scratch in CSC 3221",
+  "description": "An example Hello World in CSC 3221",
   "engines" :{
     "node": "12.x"
   }
@@ -17,7 +17,7 @@
   "keyword": [
     "nodejs",
     "heroku"
-  ];
+  ],
   "author": "Boonthai Yan",
   "license": "SPU",
   "bugs": {
